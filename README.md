@@ -65,10 +65,10 @@ To access full **Tableau dashboard,** please click [here](https://public.tableau
 To access **Sql queries** click [here](https://github.com/Maaz-Umar-00/Mitron-Bank-Analysis-Project/blob/main/01_Payment_card_Analysis_in_Sql.ipynb)
 
 ## Conclusion
-This analysis provides valuable insights into **customer spending patterns** that can guide **Mitron Bank in introducing new credit card products.** By understanding the diverse needs and preferences of different customer segments, the bank can create tailored solutions that enhance customer engagement and loyalty.
+This analysis provides valuable insights into **customer spending patterns** that can guide **Mitron Bank in introducing new payment card products.** By understanding the diverse needs and preferences of different customer segments, the bank can create tailored solutions that enhance customer engagement and loyalty.
 
 ## Acknowledgments
-[code_basics](https://codebasics.io/challenge/codebasics-resume-project-challenge/11) for providing the dataset.
+[code_basics](https://codebasics.io/challenge/codebasics-resume-project-challenge/11) for providing the dataset.\
 **Tableau** and **sql** for visualization and insights.
 
 
