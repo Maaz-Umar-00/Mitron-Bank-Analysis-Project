@@ -61,7 +61,8 @@ The dataset used for this analysis is sourced from [https://codebasics.io/challe
        ![work_type](./03_Chart_pics/work_type_colours.png)
    </div>
 
-![IT Employees Payment Card Usage](./03_Chart_pics/Payment_card_usage_by_work_type.png)
+![IT Employees Payment Card Usage](./03_Chart_pics/Payment_card_usage_by_work_type.png
+![Work_type](./03_Chart_pics/work_type_colours.png)
 
      
 To access full **Tableau dashboard,** please click [here](https://public.tableau.com/app/profile/maaz.umar/viz/MitronBankAnalysis_17266593076560/05_credit_card_dashboard)\
