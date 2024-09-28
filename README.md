@@ -41,3 +41,11 @@ The dataset used for this analysis is sourced from [https://codebasics.io/challe
 - `spends:` This column shows the total amount spent by the customer in the specified month, category and payment_type.
 
 ## Findings and Recommendations
+1. **Utility Spending Insights**:
+   - The analysis reveals that people spend the most on **utility bills**, highlighting a significant area of consumer expenditure.
+   - This suggests that Mitron Bank could consider launching new payment cards with **tailored rewards** for utility payments to enhance customer engagement and card adoption.
+
+   ![Utility Spending Patterns](./03_Chart_pics/Percentage_of_spending_income_Based_on_different_items.png
+)
+
+
