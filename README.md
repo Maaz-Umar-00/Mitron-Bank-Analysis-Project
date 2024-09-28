@@ -24,10 +24,7 @@ The **Tableau Dashboard** can be found [here](https://public.tableau.com/app/pro
 
 ## Data Structure & Initial Checks
 The dataset used for this analysis is sourced from [https://codebasics.io/challenge/codebasics-resume-project-challenge/11]) and includes two tables dim_customers and fact_spends with the following features:
-<h1 style="font-family: 'Poppins', sans-serif; font-weight: 700; color: #1c1c1c; background: white; padding: 12px; border-radius: 10px; text-align: left; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); letter-spacing: 1px; text-transform: capitalize; font-size: 1.2rem;">
-<span style="color: #333333;">column Description for dim_customers:</span>
-</h1>
-
+### Column Details For Dim_customers Table:
 - `customer_id:` This column represents the Unique ID assigned to each customer.
 - `gender:` This column represents the gender of the customer. (Male, Female)
 - `age_group`: This column categorizes the customer into different age groups. (21-24, 25-34, 35-45, 45+)
@@ -35,4 +32,12 @@ The dataset used for this analysis is sourced from [https://codebasics.io/challe
 - `city:` This column represents the city of residence for the customer. (Mumbai, Delhi-NCR, Chennai, Hyderabad, Bengaluru)
 - `occupation:` This column denotes the occupation or profession of the customer. (Salaried IT Employees, Salaried Other Employees, Business Owners, Freelancers, Government Employees)
 - `average_income:` This column indicates the monthly average income of the customer, in INR currency.
+### Column Description For Fact_spends Table:
 
+- `customer_id:` This column represents the Unique ID of each customer, linking to the dim_customer table.
+- `month:` This column indicates the month in which the spending was recorded. (May, June, July, August, September, October)
+- `category:` This column describes the category of spending (Entertainment, Apparel, Electronics, etc).
+- `payment_type:` This column specifies the type of payment used by the customer (Debit Card, Credit Card, UPI, Net Banking).
+- `spends:` This column shows the total amount spent by the customer in the specified month, category and payment_type.
+
+## Findings and Recommendations
