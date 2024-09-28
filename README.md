@@ -4,9 +4,8 @@
 1. [Overview](#overview)
 2. [Data Structure & Initial Checks](#data-structure--initial-checks)
 3. [Findings and Recommendations](#findings-and-recommendations)
-4. [Installation](#installation)
-5. [Conclusion](#conclusion)
-6. [Acknowledgments](#acknowledgments)
+4. [Conclusion](#conclusion)
+5. [Acknowledgments](#acknowledgments)
 
 ## Overveiw
 **Mitron Bank**, a prestigious legacy financial institution based in **Hyderabad**, is poised to expand its product portfolio by introducing an **innovative line of Payment cards**. As part of this strategic initiative, we aim to conduct a comprehensive analysis of **customer spending behaviors** to inform the development of these new financial products.
@@ -65,6 +64,11 @@ The dataset used for this analysis is sourced from [https://codebasics.io/challe
 To access full **Tableau dashboard,** please click [here](https://public.tableau.com/app/profile/maaz.umar/viz/MitronBankAnalysis_17266593076560/05_credit_card_dashboard)\
 To access **Sql queries** click [here](https://github.com/Maaz-Umar-00/Mitron-Bank-Analysis-Project/blob/main/01_Payment_card_Analysis_in_Sql.ipynb)
 
+## Conclusion
+This analysis provides valuable insights into **customer spending patterns** that can guide **Mitron Bank in introducing new credit card products.** By understanding the diverse needs and preferences of different customer segments, the bank can create tailored solutions that enhance customer engagement and loyalty.
 
+## Acknowledgments
+[code_basics](https://codebasics.io/challenge/codebasics-resume-project-challenge/11) for providing the dataset.
+**Tableau** and **sql** for visualization and insights.
 
 
