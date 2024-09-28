@@ -68,7 +68,7 @@ To access **Sql queries** click [here](https://github.com/Maaz-Umar-00/Mitron-Ba
 This analysis provides valuable insights into **customer spending patterns** that can guide **Mitron Bank in introducing new payment card products.** By understanding the diverse needs and preferences of different customer segments, the bank can create tailored solutions that enhance customer engagement and loyalty.
 
 ## Acknowledgments
-[code_basics](https://codebasics.io/challenge/codebasics-resume-project-challenge/11) for providing the dataset.\
-**Tableau** and **sql** for visualization and insights.
+* [code_basics](https://codebasics.io/challenge/codebasics-resume-project-challenge/11) for providing the dataset.\
+* **Tableau** and **sql** for visualization and insights.
 
 
