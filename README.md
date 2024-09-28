@@ -1,4 +1,4 @@
-# Project:Mitron-Bank-Analysis-Project
+# Project:Mitron Bank Analysis Project
 
 ## Table of Contents
 1. [Overview](#overview)
