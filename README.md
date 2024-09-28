@@ -15,7 +15,7 @@
 - **Spending Categories**: Analyzing the categories where customers allocate their expenses the most, whether it be **travel**, **dining**, **retail**, or other areas, to enhance card offerings with relevant rewards and benefits.
 - **Payment Methods**: Evaluating the most popular payment methods utilized by customers, which will inform our decision on the features and functionalities of the new credit cards.
 
-By understanding these dynamics, Mitron Bank will be well-equipped to introduce a credit card product line that not only meets the diverse needs of its customers but also positions the bank competitively in the financial market. This initiative aims to foster **customer loyalty**, increase **market share**, and enhance overall **satisfaction** with our banking services.
+By understanding these dynamics, Mitron Bank will be well-equipped to introduce a payment card product line that not only meets the diverse needs of its customers but also positions the bank competitively in the financial market. This initiative aims to foster **customer loyalty**, increase **market share**, and enhance overall **satisfaction** with our banking services.
 
 The **SQL** queries used to **analyze and clean** the data can be found [here](https://github.com/Maaz-Umar-00/Mitron-Bank-Analysis-Project/blob/main/01_Payment_card_Analysis_in_Sql.ipynb).\
 The **Tableau Dashboard** can be found [here](https://public.tableau.com/app/profile/maaz.umar/viz/MitronBankAnalysis_17266593076560/05_credit_card_dashboard)
