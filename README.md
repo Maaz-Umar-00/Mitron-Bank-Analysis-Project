@@ -53,12 +53,11 @@ The dataset used for this analysis is sourced from [https://codebasics.io/challe
 
 ![City Specific Spending Patterns](./03_Chart_pics/Total_spending_per_city.png)
 
- <div style="text-align: right;">
-       ![Additional Chart](./03_Chart_pics/.png)
-   </div>
+ 
 3. **Payment Card Usage Among IT Employees**:
    - The analysis shows that **IT employees** use the most variety of payment cards, presenting an opportunity for Mitron Bank to offer specialized cards that cater to their diverse spending habits.
    - This could enhance customer loyalty and encourage greater usage of the bank’s offerings by providing tailored features and rewards that meet the specific needs of this demographic.
+   
 ![Work_type](./03_Chart_pics/work_type_colours.png)
 ![IT Employees Payment Card Usage](./03_Chart_pics/Payment_card_usage_by_work_type.png)
 
