@@ -9,7 +9,7 @@
 6. [Acknowledgments](#acknowledgments)
 
 ## Overveiw
-**Mitron Bank**, a prestigious legacy financial institution based in **Hyderabad**, is poised to expand its product portfolio by introducing an **innovative line of credit cards**. As part of this strategic initiative, we aim to conduct a comprehensive analysis of **customer spending behaviors** to inform the development of these new financial products.
+**Mitron Bank**, a prestigious legacy financial institution based in **Hyderabad**, is poised to expand its product portfolio by introducing an **innovative line of Payment cards**. As part of this strategic initiative, we aim to conduct a comprehensive analysis of **customer spending behaviors** to inform the development of these new financial products.
 
 ### Key Objectives:
 - **Customer Segmentation**: Identifying which customer segments exhibit the **highest spending levels**, allowing for tailored marketing strategies and product features.
