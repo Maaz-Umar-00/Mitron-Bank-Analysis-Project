@@ -51,12 +51,14 @@ The dataset used for this analysis is sourced from [https://codebasics.io/challe
    - The analysis indicates that people spend the most in **Mumbai** and the least in **Hyderabad**, highlighting the need for tailored marketing strategies to maximize engagement in both markets.
    - This suggests that Mitron Bank should consider developing city-specific promotions and offers that resonate with the local consumer base.
 
-   ![City-Specific Spending Patterns](./03_Charts_pics/Total_spending_per_city.png)
-3. **Payment Card Usage Among IT Employees**:
+   ![City-Specific Spending Patterns](./03_Charts_pics/Total_spending_per_city.png
+)
+4. **Payment Card Usage Among IT Employees**:
    - The analysis shows that **IT employees** use the most variety of payment cards, presenting an opportunity for Mitron Bank to offer specialized cards that cater to their diverse spending habits.
    - This could enhance customer loyalty and encourage greater usage of the bank’s offerings by providing tailored features and rewards that meet the specific needs of this demographic.
 
-   ![IT Employees Payment Card Usage](./03_Charts_pics/Payment_card_usage_by_work_type.png)
+   ![IT Employees Payment Card Usage](./03_Charts_pics/Payment_card_usage_by_work_type.png
+   )
 
 To access full **Tableau dashboard,** please click [here](https://public.tableau.com/app/profile/maaz.umar/viz/MitronBankAnalysis_17266593076560/05_credit_card_dashboard)\
 To access **Sql queries** click [here](https://github.com/Maaz-Umar-00/Mitron-Bank-Analysis-Project/blob/main/01_Payment_card_Analysis_in_Sql.ipynb)
